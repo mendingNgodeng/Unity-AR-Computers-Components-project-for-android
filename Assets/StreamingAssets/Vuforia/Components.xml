@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ssd" size="1.000000 1.000000" />
+    <ImageTarget name="ram" size="1.000000 0.978131" />
+    <ImageTarget name="motherboard" size="1.000000 0.962818" />
+    <ImageTarget name="hardisk" size="1.000000 0.875248" />
+    <ImageTarget name="gpu" size="1.000000 0.955340" />
+    <ImageTarget name="cpu" size="1.000000 0.960938" />
+  </Tracking>
+</QCARConfig>
